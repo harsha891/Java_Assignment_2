@@ -1,0 +1,6 @@
+[
+  { "id": "p1", "firstName": "Harsha", "lastName": "G", "age": 30, "gender": "M" },
+  { "id": "p2", "firstName": "Nick", "lastName": "F", "age": 25, "gender": "M" },
+  { "id": "p3", "firstName": "Mitchel", "lastName": "K", "age": 30, "gender": "F" },
+  { "id": "p4", "firstName": "Mike", "lastName": "K", "age": 26, "gender": "M" }
+]
