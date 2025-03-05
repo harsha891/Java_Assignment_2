@@ -1,0 +1,6 @@
+[
+  { "id": "b1", "authorId": "p1", "postContent": "Harsha thesis" },
+  { "id": "b2", "authorId": "p5", "postContent": "Unknown author's post" },
+  { "id": "b3", "authorId": "p2", "postContent": "Avengers" },
+  { "id": "b4", "authorId": "p3", "postContent": "Bio chemistry" }
+]
